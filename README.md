@@ -1,9 +1,9 @@
 ## Test project from playwright
-__Install packages__
+### Install packages
 
 $ `ntl install`
 
-### `Run tests`
+### Run tests
 $ `ntl` and after select from menu `test:run` or `test:run:chrome`
 
 Script runner self generate allure report or playwright report
